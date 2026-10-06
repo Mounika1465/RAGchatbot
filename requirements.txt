@@ -1,0 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+streamlit
+torch
+transformers
+accelerate
+sentence-transformers
+langchain
+langchain-community
+langchain-text-splitters
+langchain-chroma
+langchain-huggingface
+chromadb
+pypdf
